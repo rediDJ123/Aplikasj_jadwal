@@ -1,0 +1,12 @@
+C:\Users\uSeR\source\repos\Aplikasi Jadwal\Aplikasi Jadwal\bin\Debug\Aplikasi Jadwal.exe.config
+C:\Users\uSeR\source\repos\Aplikasi Jadwal\Aplikasi Jadwal\bin\Debug\Aplikasi Jadwal.exe
+C:\Users\uSeR\source\repos\Aplikasi Jadwal\Aplikasi Jadwal\bin\Debug\Aplikasi Jadwal.pdb
+C:\Users\uSeR\source\repos\Aplikasi Jadwal\Aplikasi Jadwal\obj\Debug\Aplikasi Jadwal.csproj.AssemblyReference.cache
+C:\Users\uSeR\source\repos\Aplikasi Jadwal\Aplikasi Jadwal\obj\Debug\Aplikasi_Jadwal.Form1.resources
+C:\Users\uSeR\source\repos\Aplikasi Jadwal\Aplikasi Jadwal\obj\Debug\Aplikasi_Jadwal.Properties.Resources.resources
+C:\Users\uSeR\source\repos\Aplikasi Jadwal\Aplikasi Jadwal\obj\Debug\Aplikasi Jadwal.csproj.GenerateResource.cache
+C:\Users\uSeR\source\repos\Aplikasi Jadwal\Aplikasi Jadwal\obj\Debug\Aplikasi Jadwal.csproj.CoreCompileInputs.cache
+C:\Users\uSeR\source\repos\Aplikasi Jadwal\Aplikasi Jadwal\obj\Debug\Aplikasi Jadwal.exe
+C:\Users\uSeR\source\repos\Aplikasi Jadwal\Aplikasi Jadwal\obj\Debug\Aplikasi Jadwal.pdb
+C:\Users\uSeR\source\repos\Aplikasi Jadwal\Aplikasi Jadwal\obj\Debug\Aplikasi_Jadwal.Tambahacara.resources
+C:\Users\uSeR\source\repos\Aplikasi Jadwal\Aplikasi Jadwal\obj\Debug\Aplikasi_Jadwal.Edit.resources
